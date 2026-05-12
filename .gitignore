@@ -1,0 +1,25 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+dist/
+build/
+target/
+*.log
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Project Specific
+.agent/cache/
+.agent/temp/
